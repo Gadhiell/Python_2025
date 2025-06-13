@@ -1,4 +1,5 @@
 texto = (input ("ingresa una frase(solo se aceptaran 30 caracteres):"))
 mayus = texto.upper()
 minus = texto.lower()
-print (mayus)
+print (mayus[:30])
+print (minus[:30])

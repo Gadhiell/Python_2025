@@ -1,7 +1,6 @@
 #SAMIR Y CAMILO
 
 
-
 #pedir por consola los datos de las 4 herramientas
 print("gestion de stock de ferreteria\n")
 

@@ -1,3 +1,5 @@
+"""Camilo y Karla"""
+
 #Lee el texto ingresado
 texto = str(input('Ingrese el texto: \n'))
 

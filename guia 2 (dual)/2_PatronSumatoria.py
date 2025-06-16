@@ -17,4 +17,8 @@ while valor1 <= 800 and valor2 >= 0:
     valor1 += 10
     valor2 -= 2
 # Mostrar el resultado
+<<<<<<< HEAD
 print(f"La sumatoria del patron es: {Suma}")
+=======
+print(f"La sumatoria del patron es: {Suma}")
+>>>>>>> a5d4fad68ec68f8a2905d7db7e6f35224d695805

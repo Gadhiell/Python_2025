@@ -10,4 +10,8 @@ vendedores = {
     "tres": [80000, 95000, 110000, 70000, 120000]
 }
     
+<<<<<<< HEAD
 print ("este es el reporte de ventas semanales")
+=======
+print ("este es el reporte de ventas semanales")
+>>>>>>> a5d4fad68ec68f8a2905d7db7e6f35224d695805

@@ -9,7 +9,6 @@ if texto == "":
 texto_sc = texto.replace(',', '')
 texto_sp = texto_sc.replace('.', '')
 
-#El texto ya en minúscula se guarda en una lista
 lista_texto = texto_sp.split()
 
 

@@ -6,6 +6,3 @@ for H in range(24):
             
      # Imprimir la hora actual
             print(f"{H}:{M}:{S}")
-    _ = 0
-    while _ < 1000000:
-            _ += 1

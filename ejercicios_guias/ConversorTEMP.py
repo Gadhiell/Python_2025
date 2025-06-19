@@ -6,5 +6,5 @@ GF = ( GC * 9/5) + 32
 GK = ( GC + 273.15)
 
 #imprimir resultados de conversiones
-print (f"esta es la temperatura en grados farenheit:",GF)
-print (f"y esta es la temperatura en grados kelvin:",GK)
+print(f"Esta es la temperatura en grados Fahrenheit: {round(GF, 2)}")
+print(f"Y esta es la temperatura en grados Kelvin: {round(GK, 2)}")

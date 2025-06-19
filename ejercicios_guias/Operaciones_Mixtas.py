@@ -6,12 +6,15 @@ print ("entero:",N1)
 print ("flotante:",N2)
 print ("complejo:",N3)
 
-Potencia = (N1 ** N3)
+
+Potencia = (N3 ** N1)
+print("Potencia Compleja (Complejo^Entero):", Potencia)
 
 Suma = (N3 + N2)
+print("Suma Mixta (Complejo + Flotante):", Suma)
 
 Producto = (N3 * N1)
+print("Producto Mixto (Complejo * Entero):", Producto)
 
-mod_Potencia = abs(Potencia)
-
-mod_Potencia
+PotenciaComplex = abs(Potencia)
+print("Potencia Compleja: {0:.3f}".format(PotenciaComplex))

@@ -10,7 +10,7 @@ valor2 = 456
 #se restan de 2 en 2
 
 
-# Bucle para calcular la sumatoria
+# Bucle para calcular la sumatoria.
 
 while valor1 <= 800 and valor2 >= 0:
     Suma += valor1 + valor2

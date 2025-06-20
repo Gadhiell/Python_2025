@@ -1,4 +1,4 @@
-"""Camilo Y Karla"""
+"""Camilo y Karla"""
 
 for H in range(24):
     for M in range(60):

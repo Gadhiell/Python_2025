@@ -1,4 +1,4 @@
-"""Camilo y Karla"""
+#Camilo y Karla
 
 #Input del número
 

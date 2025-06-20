@@ -17,4 +17,8 @@ Producto = (N3 * N1)
 print("Producto Mixto (Complejo * Entero):", Producto)
 
 PotenciaComplex = abs(Potencia)
+<<<<<<< HEAD
 print("Potencia Compleja: {0:.3f}".format(PotenciaComplex))
+=======
+print("Potencia Compleja: {0:.3f}".format(PotenciaComplex))
+>>>>>>> 253188bacab41794e0354d8754e4df642086a7d8

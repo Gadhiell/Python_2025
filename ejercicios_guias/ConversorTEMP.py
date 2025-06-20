@@ -7,4 +7,8 @@ GK = ( GC + 273.15)
 
 #imprimir resultados de conversiones
 print(f"Esta es la temperatura en grados Fahrenheit: {round(GF, 2)}")
+<<<<<<< HEAD:ejercicios_guias/ConversorTEMP.py
 print(f"Y esta es la temperatura en grados Kelvin: {round(GK, 2)}")
+=======
+print(f"Y esta es la temperatura en grados Kelvin: {round(GK, 2)}")
+>>>>>>> 253188bacab41794e0354d8754e4df642086a7d8:ejercicios_guias/_conversorTEMP.py

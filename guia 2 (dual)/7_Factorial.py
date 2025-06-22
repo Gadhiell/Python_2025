@@ -1,12 +1,12 @@
 """Camilo y Karla"""
 
 #Input del número
-
-n = int(input('El factorial de un número es el producto de este multiplicado por los números menores e igual al número. Para saber el factorial de un número, ingrese un número entero positivo: \n'))
+print("El factorial de un número es el producto de este multiplicado por los números menores e igual al número.")
+n = int(input("Para saber el factorial de un número, ingrese un número entero positivo: "))
 
 #Comprobando que el número sea positivo
 while n < 0:
-    input('No es un número positivo. Inténtelo de nuevo: \n')
+    n = int(input("No es un número positivo. Inténtelo de nuevo: "))
 
 
 #Una vez comprobado que es un entero, se pasa a calcular el factorial
@@ -16,7 +16,7 @@ factorial = 1
 
 #Si el número (n) es 0, el factorial es 1
 if n == 0:
-    print(f'El número factorial de {n} ({n}!) es: {factorial}')
+    print(f"El número factorial de {n} ({n}!) es: {factorial}")
 
 #Si el número es distinto de cero, se calcula el factorial
 else:
@@ -27,10 +27,4 @@ else:
     for x in numeros:
         factorial = factorial * x
         
-    print(f'El factorial del número {n} ({n}!) es : {factorial}')
-
-       
-      
-
-
-
+    print(f"El factorial del número {n} ({n}!) es : {factorial}")

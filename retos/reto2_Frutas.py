@@ -10,7 +10,7 @@ fruta_seleccionada = 'platano'
 precios_unicos = set(precios_frutas[fruta_seleccionada])
 print(f"Precios únicos para {fruta_seleccionada}: {precios_unicos}")
 
-#lista completa  
+#lista completa
 tipos_fruta = list(precios_frutas.keys())
 print(f"Tipos de fruta disponibles: {tipos_fruta}")
 
